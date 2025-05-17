@@ -1,1 +1,10 @@
- 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+orders_export.csv
+.env
+venv/
+.env.*
+.DS_Store 
